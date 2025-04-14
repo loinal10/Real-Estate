@@ -7,9 +7,7 @@ An End-to-End Machine Learning Model is a comprehensive system that contains all
 House Price, Distance from MRT,No. of stores around,Area
 
 # Technology Used
-Python
-Jupyter Notebook
-VS Code
+Python, Jupyter Notebook, VS Code
 
 # Usage
 1. Visit http://localhost:8000/ in your browser to access the platform
