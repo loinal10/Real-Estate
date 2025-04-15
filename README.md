@@ -10,7 +10,7 @@ House Price, Distance from MRT,No. of stores around,Area.
 Python, Jupyter Notebook, VS Code.
 
 # Usage
-1. Visit http://localhost:8000/ in your browser to access the platform
+1. Visit http://localhost:8051/ in your browser to access the platform
 3. Register as a user or log in if you already have an account
 5. List your properties or search for properties that interest you
 
